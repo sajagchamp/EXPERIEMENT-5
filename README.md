@@ -80,6 +80,4 @@ To study dictionaries in Python and perform operations such as accessing, updati
 
 In this experiment, we learned how dictionaries store values in key–value form and how they can be accessed, updated, modified, and searched. Concepts like retrieving values safely using `get()`, validating login credentials, and finding the highest marks were successfully implemented. Dictionaries provide fast, flexible, and powerful data handling in Python.
 
----
 
-If you want, I can prepare **Experiment 5, 6, or combine all experiments into one PDF/DOCX** for submission.
