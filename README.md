@@ -6,7 +6,7 @@ To study dictionaries in Python and perform operations such as accessing, updati
 
 ---
 
-# **THEORY (1–2 lines for each concept used)**
+# THEORY 
 
 * **Dictionary:** A dictionary stores data in *key–value pairs* using `{}`, where each key is unique.
 * **Indexing with keys:** Values are accessed using keys like `dictname["key"]`.
